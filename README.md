@@ -1,4 +1,2 @@
-# 这是一个存放git技巧的仓库
-# gitskills
-# This is test repository
 # wq!
+# 这是一个我用来学习github简单操作的仓库
